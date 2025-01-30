@@ -28,7 +28,7 @@ with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             video_ids.append(video_id)
 
 # Directorio para guardar los archivos JSON
-directorio = "C:/Users/monkm/Music/mafu/"
+directorio = "C:/Users/luzma/Videos/power_room/subSheinES/json/"
 
 # Descargar y guardar los subtítulos
 formatter = JSONFormatter()
